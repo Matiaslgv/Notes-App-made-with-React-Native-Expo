@@ -7,10 +7,10 @@ _This is a project in development._
 ### Pre-requeriment 📋
 _Have installed the software necesary to run Expo CLI, for more information click [here](https://reactnative.dev/docs/environment-setup) and setup a enviroment to run an android emulator or a ios simulator (different for every OS)._
 
-### Deploy 📦
+## Deploy 📦
 _To deploy the project if you have installed the necesary softwware you can run "npm start" in terminal when you are in the folder, but if you want to modify it i recommend to you use the same software used on the development of the project (you can see it below)._
 
-### Build with 🛠️
+## Build with 🛠️
 _The software used in the development of the project are:_
 
 * [Android Studio](https://developer.android.com/studio) - Principally to use AVD Emulator
