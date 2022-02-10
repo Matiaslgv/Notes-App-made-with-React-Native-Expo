@@ -13,7 +13,7 @@ _To deploy the project if you have installed the necesary softwware you can run 
 ## Build with 🛠️
 _The software used in the development of the project are:_
 
-* [Expo](Scripts for the game engine unity that i made) - Expo CLI
+* [Expo](https://docs.expo.dev/) - Expo CLI
 * [Android Studio](https://developer.android.com/studio) - Principally to use AVD Emulator
 * [Visual Studio Code](https://code.visualstudio.com/) - Text editor of preference
 * [Microsoft Edge](https://www.microsoft.com/es-es/edge?r=1) - Browser of preference but you can use whatever you want
